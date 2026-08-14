@@ -1,0 +1,49 @@
+<svg width="1400" height="460" viewBox="0 0 1400 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Adaptive Edge Sensor Orchestration Lab banner</title>
+  <desc id="desc">Light academic banner showing adaptive edge sensing, sensor groups, energy quality trade-offs, and smart-city analytics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="460"><stop stop-color="#F8FBFF"/><stop offset="1" stop-color="#ECFDF5"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="0.5" stop-color="#06B6D4"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0F172A" flood-opacity="0.12"/></filter>
+  </defs>
+  <rect width="1400" height="460" rx="34" fill="url(#bg)"/>
+  <circle cx="1190" cy="80" r="250" fill="#DBEAFE" opacity="0.50"/>
+  <circle cx="120" cy="390" r="210" fill="#CCFBF1" opacity="0.55"/>
+  <path d="M0 395C180 338 332 420 514 375C690 332 827 398 1002 354C1165 313 1286 324 1400 280" stroke="#BAE6FD" stroke-width="3" opacity="0.85"/>
+
+  <g transform="translate(70 74)" filter="url(#shadow)">
+    <rect width="360" height="300" rx="38" fill="#FFFFFF" stroke="#D7E6F5" stroke-width="2"/>
+    <text x="34" y="54" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800" fill="#0F172A">Edge Sensor Group</text>
+    <g stroke="#60A5FA" stroke-width="3" opacity="0.9">
+      <line x1="95" y1="130" x2="175" y2="92"/><line x1="175" y1="92" x2="260" y2="134"/><line x1="95" y1="130" x2="140" y2="222"/><line x1="140" y1="222" x2="260" y2="134"/><line x1="175" y1="92" x2="140" y2="222"/><line x1="260" y1="134" x2="250" y2="230"/>
+    </g>
+    <g>
+      <circle cx="95" cy="130" r="18" fill="#2563EB"/><circle cx="175" cy="92" r="18" fill="#06B6D4"/><circle cx="260" cy="134" r="18" fill="#10B981"/><circle cx="140" cy="222" r="18" fill="#F59E0B"/><circle cx="250" cy="230" r="18" fill="#94A3B8"/>
+    </g>
+    <rect x="34" y="256" width="126" height="34" rx="17" fill="#E0F2FE"/><text x="56" y="279" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#0369A1">active</text>
+    <rect x="174" y="256" width="150" height="34" rx="17" fill="#DCFCE7"/><text x="198" y="279" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#047857">energy aware</text>
+  </g>
+
+  <g transform="translate(500 92)">
+    <rect x="0" y="0" width="212" height="34" rx="17" fill="#ECFEFF" stroke="#67E8F9"/>
+    <text x="22" y="23" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#0891B2">ACADEMIC AIoT RESEARCH</text>
+    <text x="0" y="106" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="900" fill="#0F172A">Adaptive Edge Sensor</text>
+    <text x="0" y="169" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="900" fill="#0F172A">Orchestration Lab</text>
+    <rect x="0" y="197" width="120" height="6" rx="3" fill="url(#accent)"/>
+    <text x="0" y="252" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">Dynamic sensor group selection for energy-efficient,</text>
+    <text x="0" y="286" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" fill="#334155">context-aware, and quality-preserving edge sensing.</text>
+    <g transform="translate(0 325)">
+      <rect width="190" height="44" rx="22" fill="#E0F2FE"/><text x="32" y="29" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#075985">Edge AI</text>
+      <rect x="210" width="245" height="44" rx="22" fill="#ECFDF5"/><text x="242" y="29" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#047857">Energy–Quality Trade-off</text>
+      <rect x="476" width="215" height="44" rx="22" fill="#EEF2FF"/><text x="508" y="29" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#4338CA">Smart-City Sensing</text>
+    </g>
+  </g>
+
+  <g transform="translate(1110 150)" filter="url(#shadow)">
+    <rect width="210" height="170" rx="28" fill="#FFFFFF" stroke="#D7E6F5" stroke-width="2"/>
+    <text x="32" y="44" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" fill="#0F172A">Policy Output</text>
+    <rect x="34" y="70" width="142" height="12" rx="6" fill="#D7E6F5"/><rect x="34" y="70" width="118" height="12" rx="6" fill="#10B981"/>
+    <rect x="34" y="100" width="142" height="12" rx="6" fill="#D7E6F5"/><rect x="34" y="100" width="96" height="12" rx="6" fill="#06B6D4"/>
+    <rect x="34" y="130" width="142" height="12" rx="6" fill="#D7E6F5"/><rect x="34" y="130" width="72" height="12" rx="6" fill="#F59E0B"/>
+  </g>
+</svg>
