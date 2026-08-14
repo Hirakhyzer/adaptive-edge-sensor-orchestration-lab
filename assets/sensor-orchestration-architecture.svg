@@ -1,0 +1,18 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Research architecture diagram">
+  <rect width="1200" height="520" rx="30" fill="#F8FBFF"/>
+  <text x="600" y="70" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#0F172A">Adaptive Edge Sensing Architecture</text>
+  <text x="600" y="110" text-anchor="middle" font-family="Arial" font-size="20" fill="#475569">Synthetic inputs, edge selection, grouped sensing, and research metrics.</text>
+  <g font-family="Arial" font-size="20" font-weight="700">
+    <rect x="80" y="205" width="220" height="130" rx="22" fill="#FFFFFF" stroke="#93C5FD" stroke-width="3"/>
+    <text x="190" y="262" text-anchor="middle" fill="#1D4ED8">Synthetic Inputs</text>
+    <text x="190" y="292" text-anchor="middle" font-size="16" font-weight="400" fill="#475569">context + catalogue</text>
+    <path d="M320 270H450" stroke="#2563EB" stroke-width="5"/><path d="M450 270l-18-10v20z" fill="#2563EB"/>
+    <rect x="470" y="185" width="260" height="170" rx="26" fill="#FFFFFF" stroke="#67E8F9" stroke-width="3"/>
+    <text x="600" y="258" text-anchor="middle" fill="#0891B2">Edge Selector</text>
+    <text x="600" y="292" text-anchor="middle" font-size="16" font-weight="400" fill="#475569">rank + choose + schedule</text>
+    <path d="M750 270H880" stroke="#06B6D4" stroke-width="5"/><path d="M880 270l-18-10v20z" fill="#06B6D4"/>
+    <rect x="900" y="205" width="220" height="130" rx="22" fill="#FFFFFF" stroke="#86EFAC" stroke-width="3"/>
+    <text x="1010" y="262" text-anchor="middle" fill="#047857">Research Metrics</text>
+    <text x="1010" y="292" text-anchor="middle" font-size="16" font-weight="400" fill="#475569">energy + quality</text>
+  </g>
+</svg>
